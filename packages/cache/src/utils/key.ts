@@ -1,5 +1,5 @@
 import { logger } from "@formbricks/logger";
-import type { CacheKey } from "@/types/keys";
+import type { CacheKey } from "../../types/keys";
 
 /**
  * Helper function to create cache keys with runtime validation
